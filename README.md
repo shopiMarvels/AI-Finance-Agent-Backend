@@ -121,16 +121,6 @@ ai-finance-agent-backend/
 ├── utils/              # Utility functions
 │   └── analysis.js     # Transaction analysis logic
 └── .env                # Environment variables
-client/
-│
-├── src/
-│   ├── components/
-│   │   ├── WalletForm.js        # Wallet address input
-│   │   ├── WalletSummary.js     # GPT summary display
-│   │   └── TransactionChart.js  # Recharts visualization
-│   ├── App.js                   # Main dashboard component
-│   └── index.js
-└── package.json
 
 
 ## License
